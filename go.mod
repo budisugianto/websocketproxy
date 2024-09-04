@@ -1,3 +1,3 @@
-module github.com/pretty66/websocketproxy
+module github.com/budisugianto/websocketproxy
 
 go 1.12
